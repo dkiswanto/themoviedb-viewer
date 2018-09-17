@@ -1,4 +1,5 @@
 # themoviedb-viewer
+[![Maintainability](https://api.codeclimate.com/v1/badges/31960162f5243e5938a0/maintainability)](https://codeclimate.com/github/kinto-d/themoviedb-viewer/maintainability)
 
 #### Dependency
 * [Android Support Library](https://developer.android.com/topic/libraries/support-library)
